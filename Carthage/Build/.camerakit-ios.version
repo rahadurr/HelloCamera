@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "v1.2.1",
+  "iOS" : [
+    {
+      "name" : "CameraKit",
+      "hash" : "a497266bd4b805e479ffb24561285f14c5be72ff098b4575ec1d1ea9a007f142",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}
